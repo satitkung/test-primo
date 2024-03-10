@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TestPrimo" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimaryVariant">@color/orange</item>
+        <item name="colorOnPrimary">@color/orange</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Font">
+        <item name="android:fontFamily">@font/db_brand_voice_x_bd</item>
+        <item name="fontFamily">@font/db_brand_voice_x_bd</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <style name="Font.H1">
+        <item name="android:textSize">32sp</item>
+    </style>
+
+    <style name="Font.H2">
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="Font.Body1">
+        <item name="android:textSize">20sp</item>
+    </style>
+
+    <style name="Font.Body2">
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="Font.Body3">
+        <item name="android:textSize">14sp</item>
+    </style>
+
+    <style name="Font.H1.BOLD">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Font.H2.BOLD">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Font.Body1.BOLD">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="Font.Body2.BOLD">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

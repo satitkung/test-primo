@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestPrimo</string>
+    <string name="pub_date">Public Date: %1$s</string>
+
+</resources>
